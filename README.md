@@ -60,4 +60,4 @@
 
 # Skills
 
-![Skills](https://skillicons.dev/icons?i=py,js,html,css,cpp,php,markdown,powershell,bash,regex,nodejs,npm,electron,bootstrap,flask,mysql,raspberrypi,arduino,windows,linux,git,github,unreal,blender&perline=12)
+![Skills](https://skillicons.dev/icons?i=py,js,html,css,cpp,php,markdown,powershell,bash,regex,nodejs,npm,electron,bootstrap,flask,mysql,raspberrypi,arduino,windows,linux,git,github&perline=11)
