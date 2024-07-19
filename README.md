@@ -86,6 +86,13 @@
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=bartekl1&repo=poznan-transport-cli&theme=default#gh-light-mode-only" />
 </a>
 
+<a href="https://github.com/bartekl1/table-console-js#gh-dark-mode-only">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=bartekl1&repo=table-console-js&theme=dark#gh-dark-mode-only" />
+</a>
+<a href="https://github.com/bartekl1/table-console-js#gh-light-mode-only">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=bartekl1&repo=table-console-js&theme=default#gh-light-mode-only" />
+</a>
+
 # Skills
 
 ![Skills](https://skillicons.dev/icons?i=py,js,html,css,cpp,php,markdown,powershell,bash,regex,nodejs,npm,electron,bootstrap,flask,mysql,raspberrypi,arduino,windows,linux,git,github&perline=11)
