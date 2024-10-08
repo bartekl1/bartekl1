@@ -58,32 +58,11 @@
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=bartekl1&repo=network-monitor&theme=default#gh-light-mode-only" />
 </a>
 
-<a href="https://github.com/bartekl1/authenticator#gh-dark-mode-only">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=bartekl1&repo=authenticator&theme=dark#gh-dark-mode-only" />
-</a>
-<a href="https://github.com/bartekl1/authenticator#gh-light-mode-only">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=bartekl1&repo=authenticator&theme=default#gh-light-mode-only" />
-</a>
-
-<a href="https://github.com/bartekl1/camera-stream#gh-dark-mode-only">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=bartekl1&repo=camera-stream&theme=dark#gh-dark-mode-only" />
-</a>
-<a href="https://github.com/bartekl1/camera-stream#gh-light-mode-only">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=bartekl1&repo=camera-stream&theme=default#gh-light-mode-only" />
-</a>
-
 <a href="https://github.com/bartekl1/remote-power-control#gh-dark-mode-only">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=bartekl1&repo=remote-power-control&theme=dark#gh-dark-mode-only" />
 </a>
 <a href="https://github.com/bartekl1/remote-power-control#gh-light-mode-only">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=bartekl1&repo=remote-power-control&theme=default#gh-light-mode-only" />
-</a>
-
-<a href="https://github.com/bartekl1/poznan-transport-cli#gh-dark-mode-only">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=bartekl1&repo=poznan-transport-cli&theme=dark#gh-dark-mode-only" />
-</a>
-<a href="https://github.com/bartekl1/poznan-transport-cli#gh-light-mode-only">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=bartekl1&repo=poznan-transport-cli&theme=default#gh-light-mode-only" />
 </a>
 
 <a href="https://github.com/bartekl1/table-console-js#gh-dark-mode-only">
