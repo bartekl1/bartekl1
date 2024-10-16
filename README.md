@@ -58,6 +58,13 @@
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=bartekl1&repo=network-monitor&theme=default#gh-light-mode-only" />
 </a>
 
+<a href="https://github.com/bartekl1/WindowsResources#gh-dark-mode-only">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=bartekl1&repo=WindowsResources&theme=dark#gh-dark-mode-only" />
+</a>
+<a href="https://github.com/bartekl1/WindowsResources#gh-light-mode-only">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=bartekl1&repo=WindowsResources&theme=default#gh-light-mode-only" />
+</a>
+
 <a href="https://github.com/bartekl1/remote-power-control#gh-dark-mode-only">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=bartekl1&repo=remote-power-control&theme=dark#gh-dark-mode-only" />
 </a>
