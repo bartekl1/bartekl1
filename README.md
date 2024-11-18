@@ -1,17 +1,24 @@
 # Stats
 
 <a href="https://github.com/bartekl1#gh-dark-mode-only">
-  <img height=175 src="https://github-readme-stats.vercel.app/api?username=bartekl1&show_icons=true&theme=dark&custom_title=Bartek's%20Stats#gh-dark-mode-only" />
+  <img height=175 src="https://github-readme-stats.vercel.app/api?username=bartekl1&show_icons=true&theme=dark&custom_title=GitHub%20Stats#gh-dark-mode-only" />
 </a>
 <a href="https://github.com/bartekl1#gh-light-mode-only">
-  <img height=175 src="https://github-readme-stats.vercel.app/api?username=bartekl1&show_icons=true&theme=default&custom_title=Bartek's%20Stats#gh-light-mode-only" />
+  <img height=175 src="https://github-readme-stats.vercel.app/api?username=bartekl1&show_icons=true&theme=default&custom_title=GitHub%20Stats#gh-light-mode-only" />
 </a>
 
 <a href="https://github.com/bartekl1#gh-dark-mode-only">
   <img height=175 src="https://github-readme-stats.vercel.app/api/top-langs/?username=bartekl1&theme=dark&hide=nsis&layout=compact#gh-dark-mode-only" />
 </a>
 <a href="https://github.com/bartekl1#gh-light-mode-only">
-  <img height=175 src="https://github-readme-stats.vercel.app/api/top-langs/?username=bartekl1&theme=dafault&hide=nsis&layout=compact#gh-light-mode-only" />
+  <img height=175 src="https://github-readme-stats.vercel.app/api/top-langs/?username=bartekl1&theme=default&hide=nsis&layout=compact#gh-light-mode-only" />
+</a>
+
+<a href="https://github.com/bartekl1#gh-dark-mode-only">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime/?username=bartekl1&theme=dark&layout=compact&custom_title=Coding%20Stats#gh-dark-mode-only" />
+</a>
+<a href="https://github.com/bartekl1#gh-light-mode-only">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime/?username=bartekl1&theme=default&layout=compact&custom_title=Coding%20Stats#gh-light-mode-only" />
 </a>
 
 # My projects
