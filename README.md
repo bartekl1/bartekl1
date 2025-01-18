@@ -79,6 +79,13 @@
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=bartekl1&repo=remote-power-control&theme=default#gh-light-mode-only" />
 </a>
 
+<a href="https://github.com/bartekl1/fake-windows-update#gh-dark-mode-only">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=bartekl1&repo=fake-windows-update&theme=dark#gh-dark-mode-only" />
+</a>
+<a href="https://github.com/bartekl1/fake-windows-update#gh-light-mode-only">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=bartekl1&repo=fake-windows-update&theme=default#gh-light-mode-only" />
+</a>
+
 <a href="https://github.com/bartekl1/table-console-js#gh-dark-mode-only">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=bartekl1&repo=table-console-js&theme=dark#gh-dark-mode-only" />
 </a>
